@@ -33,3 +33,6 @@ This condition is done with a simple if block. During Amplitude or Frequency ent
 
 The user interface works as requested. Button # is used as an Enter key Button, A is used to define the Amplitude of the signal, Button D is used to cycle through displaying the Mode, Amplitude and Frequency of the currently active signal, Button C is used to cycle through modes.
 
+## DIAGRAM
+
+![alt text](https://raw.githubusercontent.com/voghbum/STM32-Function-Generator/main/2.jpg)
