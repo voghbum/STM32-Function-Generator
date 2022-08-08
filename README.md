@@ -6,7 +6,7 @@
 
 There is no bright level differences in between segments and digits in SSD. We solved this problem by using sysTick Timer. There is no brightness difference in the SSD because SysTick Timer lights each digit consecutively for a certain period of time (this period is too short for the human eye to perceive) and keep the duration of each digit on constant.
 
-birinci foto gelecek
+![alt text](http://url/to/img.png)
 
 ```C
 void SysTick_Handler(){
