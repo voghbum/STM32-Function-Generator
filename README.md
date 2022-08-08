@@ -12,9 +12,9 @@ void SysTick_Handler(){
  static volatile int8_t ct = -1;
  ct++;
 
-if(ct == 5) { 
- SSD_disp();
- ct = 0;
+ if(ct == 5) { 
+  SSD_disp();
+  ct = 0;
  }
 }
 ```
